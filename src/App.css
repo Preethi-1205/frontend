@@ -11,6 +11,14 @@ body {
   height: 100vh;
 }
 
+.form-box {
+  background: #ffffff;
+  padding: 40px 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  width: 350px;
+}
 
 .form-box h2 {
   margin-bottom: 25px;
